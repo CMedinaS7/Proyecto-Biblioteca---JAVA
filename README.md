@@ -2,7 +2,7 @@
 
 Proyecto Biblioteca Creado en JAVA
 
-Proyecto orientado a objetos, manteniento de libros, prestamos, devoluciones y empleados.
+Proyecto orientado a objetos, manteniento de libros, prestamos, devoluciones y empleados, con una interfaz tipo IPAD.
 
 ![Alt text](/biblioteca-0.png?raw=true "Intro")
 
